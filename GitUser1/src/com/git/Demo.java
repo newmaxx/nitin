@@ -9,6 +9,8 @@ public class Demo {
 		System.out.println(addition(a, b));
 		System.out.println(substratioc(a, b));
 		System.out.println("helo......");
+		System.out.println("helo11111111......");
+		System.out.println("helo222222222......");
 	}
 
 	public static int addition(int a, int b) {
