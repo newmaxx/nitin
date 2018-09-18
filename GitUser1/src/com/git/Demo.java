@@ -8,6 +8,7 @@ public class Demo {
 		int b = 20;
 		System.out.println(addition(a, b));
 		System.out.println(substratioc(a, b));
+		System.out.println("helo......");
 	}
 
 	public static int addition(int a, int b) {
