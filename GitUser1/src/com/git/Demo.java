@@ -22,12 +22,18 @@ public class Demo {
 
 		int c = a - b;
 
-	return c;
+		return c;
 	}
-	
-	public static int multiplication(int a,int b){
-		int c=a*b;
-		
+
+	public static int multiplication(int a, int b) {
+		int c = a * b;
+
+		return c;
+	}
+
+	public static int division(int a, int b) {
+
+		int c = a / b;
 		return c;
 	}
 
