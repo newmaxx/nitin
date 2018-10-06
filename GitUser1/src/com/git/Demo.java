@@ -21,6 +21,13 @@ public class Demo {
 	public static int substratioc(int a, int b) {
 
 		int c = a - b;
+
+	return c;
+	}
+	
+	public static int multiplication(int a,int b){
+		int c=a*b;
+		
 		return c;
 	}
 
