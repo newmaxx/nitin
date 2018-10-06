@@ -18,16 +18,16 @@ public class Demo {
 		return c;
 	}
 
-/*<<<<<<< HEAD*/
 	public static int substratioc(int a, int b) {
 
 		int c = a - b;
-/*=======
-	public static int multiplication(int a, int b) {
-		int c = a * b;
-
->>>>>>> branch 'master' of https://github.com/newmaxx/nitin.git
-*/		return c;
+	return c;
+	}
+	
+	public static int multiplication(int a,int b){
+		int c=a*b;
+		
+		return c;
 	}
 
 }
