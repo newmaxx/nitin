@@ -6,7 +6,7 @@ public class Employee {
 	private int empname;
 	private int empsalary;
 	//
-	
+	private int empage;
 
 	@Override
 	public String toString() {
